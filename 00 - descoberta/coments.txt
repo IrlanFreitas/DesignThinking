@@ -1,9 +1,9 @@
 Conteúdo detalhado do curso do Alura:
 
 O projeto que iremos trabalhar
-Entendendo o briefing
+Entendendo o briefing - https://marketingdeconteudo.com/briefing/
 Entendendo o problema
-Criando soluções para o problema
+Criando soluções para o problema - Experimentando
 Entendendo o que eu preciso para solucionar corretamente
 
 Design
@@ -12,12 +12,12 @@ Diferenças entre Design e Arte
 Conclusão sobre Design
 
 Design Thinking
-O conceito por trás da palavra
-Exemplo de empresas que já usaram
-Os pais do Design Thinking
-Os Pilares do Design Thinking
-Para que usar
-As fases do Design Thinking
+O conceito por trás da palavra 
+Exemplo de empresas que já usaram - IDEO, Apple (Magic Mouse)
+Os pais do Design Thinking - Tim Brown, David M Telley
+Os Pilares do Design Thinking - Centrado ao Usuário, Colaboração, Otimista, Experimental
+Para que usar - Resolver qualquer problema
+As fases do Design Thinking - Preparação, Descoberta, Interpretaçao, Ideação, Experimentação, Evolução
 
 Preparação para o Design Thinking
 Defina um desafio
@@ -46,5 +46,106 @@ No decorrer do curso falaremos sobre alguns materiais que serão necessários para
 Ao final do curso, disponibilizamos os slides para você se guiar e começar seu próprio processo de Design Thinking sem precisar revisitar vídeo a vídeo, ok?
 
 
-
 Design Thinking que é composto por cinco etapas: descoberta, interpretação, ideação, experimentação e evolução.
+
+Descoberta:
+
+Briefing - Problema do Fernando. 
+Onde encontro um plano para minha empresa ?
+
+Não está fácil para o Fernando achar isso, mesmo com o numero(Ter muitos atentendes para responder a solicitação) ou email(Por conta do tempo hábil para responder), deveria ter um form com isso de forma fácil de acesso.
+
+Onde está a eficiencia ?
+
+Preciso algo mais eficiente! Preciso de um processo que me ajude a chegar a essa solução de problemas como o do Fernando.
+
+Brainstorm - Para resolver o problema
+
+Processo: 
+1. Me organizar - verificar qual é o problema, escrevendo o brefing, pesquisando casos semelhantes e coletando as informações relativas;
+2. Levar esse problema aos meus colegas da Alura - comunicaremos os resultados quantitativos e qualitativos obtidos a partir do ponto anterior, enfatizando que é preciso melhorar para evitar que acabemos com nossa imagem no mercado de trabalho, além de estarmos deixando de faturar e atender várias pessoas;
+3. Conversar com os colegas.
+4. Resolver o problema.
+
+Mas será que não há nada que envolva o processo do início ao fim? Algo pronto, que alguém já tenha inventado? Algo que guie nosso fluxo de pensamento?
+
+Conceitos;
+
+Tudo isso com uma intenção, um objetivo, resolver um problema.
+
+Design - 
+Usar o Illustrator, Usar o Sketch, Usar o Photoshop, Usar o paint, Ser o novo picasso...
+O Design precisa comunicar uma mensagem.
+Não é produzir artes ou fazer esculturas, o design não é só isso.
+Arte - Depende da visão de cada um.
+Mas o design não, não é passivel da visão de cada um,
+Uma forma de resolver PROBLEMAS, de uma forma criativa, utilizando métodos, processos,
+passos, chegando a uma solução, um jeito de pensar, um produto, um serviço ou 
+algo para não fazer.
+é uma forma de resolver problemas. É uma forma criativa, evitando pensarmos sempre da mesma maneira, estudando novidades e chegando a ideias de acordo com os processos mencionados, "saindo da caixa", utilizando métodos e cumprindo passos para alcançar uma solução.
+
+Metodologia para resolver problemas - 
+É composta por algumas fases,
+Idealização, Criação, Desenvolvimento, Configuração, Concepção, Elaboração, Especificação de Artefatos (quando vamos deixar um item com determinada cor, ou usamos uma medida específica, por exemplo)
+Isso produz uma padronização de componentes e desenhos.
+É uma atividade estratégica, tecnica e criativa.
+
+
+
+
+
+Design Thinking = DT - 
+
+Resumo: Significa acreditar que podemos fazer a diferença, desenvolvendo um processo intencional para chegar ao novo, a soluções criativas, e criar impacto positivo, e tudo isso baseado em alguns pilares.
+
+Auxilia na criação de um novo pensamento
+
+Magic Mouse Apple - Inovando na forma de utilizar o mouse, utilizando o design thinking para resolver o problema.
+
+Criadores: Tim Brown, David M Kelley, também criadores(ceo's)da empresa IDEO
+
+Pilares:
+Centrado no Usuário
+Colaborativo - Não resolver tudo sozinho, grupo trabalhando junto, gerente, backenders, front's, fullstacks
+Otimista - Acreditar na solução
+Experimental
+
+Pra que usar o DT?
+Usar para qualquer coisa!
+
+Etapas:
+Preparação - Etapa antes das 5 etapas :).
+Descoberta, Interpretação, Ideação, Experimentação, Evolução
+
+
+
+Fase Preparação
+
+Olá!
+Nessa aula você irá passar pela Preparação, que é um momento anterior as 5 etapas do Design Thinking. Para isso você precisará, no decorrer dessa aula, de algumas tabelas. Essas tabelas podem ser usadas no computador mesmo, em um editor de texto comum como o Drawn do Google Drive ou você pode pegar uma folha A4/A3 ou flipchart e desenhar a tabela a mão. Os títulos das tabelas que utilizaremos são os seguintes:
+
+1) Problemas - Coisas que eu gostaria que tivesse;
+
+2) Como podemos;
+
+3) Seja simples;
+
+4) Medidas/Indicadores de Sucesso;
+
+5) Estabeleça limites;
+
+6) Escreva um Resumo - Briefing;
+
+7) Objetivos finais;
+
+Qualquer dúvida ou problema para criar essas tabelas, avise no fórum!
+
+
+
+
+
+
+
+
+
+
