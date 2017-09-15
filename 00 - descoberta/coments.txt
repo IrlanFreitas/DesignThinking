@@ -1,13 +1,13 @@
-Conte?do detalhado do curso do Alura:
+Conteúdo detalhado do curso do Alura:
 
 O projeto que iremos trabalhar - Problema do Fernando.
 Entendendo o briefing - https://marketingdeconteudo.com/briefing/
 Entendendo o problema
-Criando solu??ess para o problema - Experimentando
+Criando soluções para o problema - Experimentando
 Entendendo o que eu preciso para solucionar corretamente
 
 Design
-Entendendo o que ? o Design
+Entendendo o que é o Design
 Diferenças entre Design e Arte
 Conclusão sobre Design
 
@@ -15,11 +15,11 @@ Design Thinking
 O conceito por trás da palavra 
 Exemplo de empresas que já usaram - IDEO, Apple (Magic Mouse)
 Os pais do Design Thinking - Tim Brown, David M Telley
-Os Pilares do Design Thinking - Centrado ao Usuário, Colabora??o, Otimista, Experimental
+Os Pilares do Design Thinking - Centrado ao Usuário, Colaboração, Otimista, Experimental
 Para que usar - Resolver qualquer problema!
-As fases do Design Thinking - Prepara??o, Descoberta, Interpretaçao, Idea??o, Experimenta??o, Evolu??o
+As fases do Design Thinking - Preparação, Descoberta, Interpretação, Ideação, Experimentação, Evolução
 
-Prepara??o para o Design Thinking
+Preparação para o Design Thinking
 Defina um desafio - Problema com Planos Corporativos.
 O que fazer: 
 liste temas; delimite o problema; seja simples; indicadores de sucesso; estabeleça limites; escreva um resumo; objetivos finais
@@ -30,13 +30,13 @@ A etapa descoberta
 Revise o desafio
 Compartilhe o que sabe
 Construa sua equipe
-Defina seu p?blico
+Defina seu público
 Refine o plano
 Prepare a pesquisa
 Selecione os entrevistados
 Prepare uma lista de perguntas
 Prepare-se para o trabalho de campo
-Inspira??es
+Inspirações
 Aprenda com pessoas
 Conclusão etapa Descoberta
 
@@ -44,11 +44,11 @@ Dicas importantes:
 
 Comece baixando o briefing aqui - check
 No decorrer do curso falaremos sobre alguns materiais que serão necessários para as atividades em grupo. 
-No geral, voc? precisará de canetas, pap?is adesivos (post-it) e folhas A3 (ou flipchart).
-Ao final do curso, disponibilizamos os slides para voc? se guiar e começar seu próprio processo de Design Thinking sem precisar revisitar vídeo a vídeo, ok?
+No geral, você precisará de canetas, papéis adesivos (post-it) e folhas A3 (ou flipchart).
+Ao final do curso, disponibilizamos os slides para você se guiar e começar seu próprio processo de Design Thinking sem precisar revisitar vídeo a vídeo, ok?
 
 
-Design Thinking que ? composto por cinco etapas: descoberta, interpreta??o, idea??o, experimenta??o e evolu??o.
+Design Thinking que ? composto por cinco etapas: descoberta, interpretação, ideação, experimentação e evolução.
 
 Descoberta:
 
@@ -56,7 +56,8 @@ Briefing - Resumo de um problema de usuário.
 Briefing do Curso - Problema do Fernando. 
 Onde encontro um plano para minha empresa ?
 
-Não está fácil para o Fernando achar isso, mesmo com o numero(Ter muitos atentendes para responder a solicita??o) ou email(Por conta do tempo hábil para responder), deveria ter um form com isso de forma fácil de acesso.
+Não está fácil para o Fernando achar isso, mesmo com o numero(Ter muitos atentendes para responder a solicitaçõa) 
+ou email(Por conta do tempo hábil para responder), deveria ter um form com isso de forma fácil de acesso.
 
 Onde está a eficiencia ?
 
@@ -65,16 +66,17 @@ Preciso algo mais eficiente! Preciso de um processo que me ajude a chegar a essa
 Brainstorm - Chuva de ideias para resolver o problema.
 
 Processo: 
-1. Me organizar - verificar qual ? o problema, escrevendo o brefing, pesquisando casos semelhantes e coletando as informa??ess relativas;
-2. Levar esse problema aos meus colegas da Alura - comunicaremos os resultados quantitativos e qualitativos obtidos a partir do ponto anterior, enfatizando que ? preciso melhorar para evitar que acabemos com nossa imagem no mercado de trabalho, al?m de estarmos deixando de faturar e atender várias pessoas;
+1. Me organizar - verificar qual é o problema, escrevendo o brefing, pesquisando casos semelhantes e coletando as informações relativas;
+2. Levar esse problema aos meus colegas da Alura - comunicaremos os resultados quantitativos e qualitativos obtidos a partir do ponto anterior, 
+enfatizando que ? preciso melhorar para evitar que acabemos com nossa imagem no mercado de trabalho, al?m de estarmos deixando de faturar e atender várias pessoas;
 3. Conversar com os colegas.
 4. Resolver o problema.
 
-Mas será que não há nada que envolva o processo do início ao fim? Algo pronto, que algu?m já tenha inventado? Algo que guie nosso fluxo de pensamento?
+Mas será que não há nada que envolva o processo do início ao fim? Algo pronto, que algue?m já tenha inventado? Algo que guie nosso fluxo de pensamento?
 
 Conceitos;
 
-Tudo isso com uma inten??o, um objetivo, resolver um problema.
+Tudo isso com uma intenção, um objetivo, resolver um problema.
 
 Design - 
 Usar o Illustrator, Usar o Sketch, Usar o Photoshop, Usar o paint, Ser o novo picasso...
@@ -83,23 +85,26 @@ Não ? produzir artes ou fazer esculturas, o design não ? só isso.
 Arte - Depende da visão de cada um.
 Mas o design não, não ? passivel da visão de cada um,
 Uma forma de resolver PROBLEMAS, de uma forma criativa, utilizando m?todos, processos,
-passos, chegando a uma solu??o, um jeito de pensar, um produto, um serviço ou 
+passos, chegando a uma solução, um jeito de pensar, um produto, um serviço ou 
 algo para não fazer.
 ? uma forma de resolver problemas. É uma forma criativa, evitando pensarmos sempre da mesma maneira, estudando novidades e chegando a ideias de acordo com os processos mencionados, "saindo da caixa", utilizando m?todos e cumprindo passos para alcançar uma solu??o.
 
 Metodologia para resolver problemas - 
 É composta por algumas fases,
-Idealiza??o, Cria??o, Desenvolvimento, Configura??o, Concep??o, Elabora??o, Especifica??o de Artefatos (quando vamos deixar um item com determinada cor, ou usamos uma medida específica, por exemplo)
-Isso produz uma padroniza??o de componentes e desenhos.
-É uma atividade estrat?gica, tecnica e criativa.
+Idealização, Criação, Desenvolvimento, Configuração, Concepção, Elaboração, 
+Especificação de Artefatos (quando vamos deixar um item com determinada cor, ou usamos uma medida específica, por exemplo)
+Isso produz uma padronização de componentes e desenhos.
+É uma atividade estratégica, tecnica e criativa.
 
 
 
 Design Thinking == DT - 
 
-Resumo: Significa acreditar que podemos fazer a diferença, desenvolvendo um processo intencional para chegar ao novo, a solu??ess criativas, e criar impacto positivo, e tudo isso baseado em alguns pilares.
+Resumo: Significa acreditar que podemos fazer a diferença, 
+desenvolvendo um processo intencional para chegar ao novo, 
+a soluções criativas, e criar impacto positivo, e tudo isso baseado em alguns pilares.
 
-Auxilia na cria??o de um novo pensamento
+Auxilia na criação de um novo pensamento
 
 Magic Mouse Apple - Inovando na forma de utilizar o mouse, utilizando o design thinking para resolver o problema.
 
@@ -115,17 +120,17 @@ Pra que usar o DT? {
 Usar para qualquer coisa! }
 
 Etapas: [
-Prepara??o - Etapa antes das 5 etapas :),
-Descoberta, Interpreta??o, Idea??o, Experimenta??o, Evolu??o ]
+Preparação - Etapa antes das 5 etapas :),
+Descoberta, Interpretação, Ideação, Experimentação, Evolução ]
 
 
 
-Fase Prepara??o
+Fase Preparação
 
-Definir o Desafio || Desafio do Design; Entendimento; Plano de A??o; Abordagem; Escopo Claro.
+Definir o Desafio || Desafio do Design; Entendimento; Plano de Ação; Abordagem; Escopo Claro.
 
 IDEO Recommendations 
-Prepara??o {
+Preparação {
 	2 a 5 pessoas
 	30 a 60 minutos
 }
@@ -136,12 +141,12 @@ O que fazer ? {
 }
 
 Olá!
-Nessa aula voc? irá passar pela Prepara??o, que ? um momento anterior 
+Nessa aula você irá passar pela Preparação, que é um momento anterior 
 as 5 etapas do Design Thinking. 
-Para isso voc? precisará, no decorrer dessa aula, de algumas tabelas. 
+Para isso você precisará, no decorrer dessa aula, de algumas tabelas. 
 Essas tabelas podem ser usadas no computador mesmo, 
 em um editor de texto comum como o Drawn do Google Drive (Tabela feitas, não do melhor jeito, acho)
-ou voc? pode pegar uma folha A4/A3 ou flipchart e desenhar a tabela a mão. 
+ou você pode pegar uma folha A4/A3 ou flipchart e desenhar a tabela a mão. 
 Os títulos das tabelas que utilizaremos são os seguintes:
 
 1) Problemas - Coisas que eu gostaria que tivesse; {
@@ -158,31 +163,58 @@ Os títulos das tabelas que utilizaremos são os seguintes:
 }
 
 3) Seja simples; {
-	//
+	//Aqui descrevemos o problema de maneira simples, objetiva e que qualquer pessoa consiga entender; às vezes a forma
+	//como foi descrito no questionário 2, poder ser a mesma descrita aqui.
+	Pessoas que precisam contratar planos corporativos não conseguem fazer isso pelo nosso site.
 }
 
-4) Medidas/Indicadores de Sucesso;{
-
+4) Medidas/Indicadores de Sucesso; {
+	//Aqui descrevemos os indicadores que nos auxiliarão a perceber se fomos bem sucedidos
+	//ao resolver o nosso problema escolhido do DT.
+	Feedback positivo dos alunos.
+	Acesso a informação desses planoes de maneira simples.
+	Contratação desses planos de maneira simples e ágil.
+	Aumento na demanda por este tipo de contratação.
 }
 
-5) Estabele?a limites; {
-
+5) Estabeleça limites; {
+	//Limitações que devemos levar em consideração ao pensar nas soluções para o nosso problema
+	Precisa ser de baixo custo.
+	Precisa utilizar recursos humanos/intelectuais que já temos no Alura, que não necessite de 
+	recursos externos (exemplo: uma peça de design? Temos designers aqui; Enviar uma carta?
+	Teremos que enviar via correios, não é nosso)
 }
 
 6) Escreva um Resumo - Briefing; {
-
+	//Exemplo dado pela instrutora
+	Nossos futuros alunos não conseguem contratar planos que não sejam aqueles oferecidos em nosso site.
+	Fernando conseguiu um budget para investir na formação da sua equipe de T.I. na empresa, mas não
+	encontra como pode contratar um plano corporativo no site da Alura. Existe alguma maneira de
+	solucionarmos isto? Porque para nós, da Alura, isso é um problema. Não queremos que alguém precise
+	procurar tanto em nosso site para encontrar uma simples informação de um plano diferente ou uma
+	solicitação de informação sobre um plano específico.
 }
 
 7) Objetivos finais; {
-
+	//Onde queremos chegar?
+	//Aqui falamos onde esperamos chegar ao fim do processo do design thinking,
+	//descrevendo até mesmo qual o entregável podemos ter.
+	/*
+		Definir objetivos para empreender o desafio de design significa estabelecer onde esperamos chegar 
+		ao fim do processo do Design Thinking, descrever até mesmo qual o entregável podemos ter no fim do processo. 
+		Isso pode nos auxiliar durante todo o processo e até mesmo ser um termômetro durante todo o processo.
+	*/
+	Um documento do Google Drive para compartilhar com os demais tomadores de decisão
+	Uma apresentação resumo do que foi estudado e das soluções as quais chegamos
 }
 
-Qualquer d?vida ou problema para criar essas tabelas, avise no forum!
+Qualquer dúvida ou problema para criar essas tabelas, avise no forum!
+
+SE PLANEJEM!
 
 
 
-
-
+Etapa 1 - Descoberta
 
 
 
