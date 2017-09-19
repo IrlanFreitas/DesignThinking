@@ -1,0 +1,316 @@
+Conteúdo detalhado do curso do Alura:
+
+O projeto que iremos trabalhar - Problema do Fernando.
+Entendendo o briefing - https://marketingdeconteudo.com/briefing/
+Entendendo o problema
+Criando soluções para o problema - Experimentando
+Entendendo o que eu preciso para solucionar corretamente
+
+Design
+Entendendo o que é o Design
+Diferenças entre Design e Arte
+Conclusão sobre Design
+
+Design Thinking
+O conceito por trás da palavra 
+Exemplo de empresas que já usaram - IDEO, Apple (Magic Mouse)
+Os pais do Design Thinking - Tim Brown, David M Telley
+Os Pilares do Design Thinking - Centrado ao Usuário, Colaboração, Otimista, Experimental
+Para que usar - Resolver qualquer problema!
+As fases do Design Thinking - Preparação, Descoberta, Interpretação, Ideação, Experimentação, Evolução
+
+Preparação para o Design Thinking
+Defina um desafio - Problema com Planos Corporativos.
+O que fazer: 
+liste temas; delimite o problema; seja simples; indicadores de sucesso; estabeleça limites; escreva um resumo; objetivos finais
+Crie um plano
+
+Etapa Descoberta
+A etapa descoberta
+Revise o desafio
+Compartilhe o que sabe
+Construa sua equipe
+Defina seu público
+Refine o plano
+Prepare a pesquisa
+Selecione os entrevistados
+Prepare uma lista de perguntas
+Prepare-se para o trabalho de campo
+Inspiraçães
+Aprenda com pessoas
+Conclusão etapa Descoberta
+
+Dicas importantes:
+
+Comece baixando o briefing aqui - check
+No decorrer do curso falaremos sobre alguns materiais que ser�o necess�rios para as atividades em grupo. 
+No geral, voc� precisar� de canetas, pap�is adesivos (post-it) e folhas A3 (ou flipchart).
+Ao final do curso, disponibilizamos os slides para voc� se guiar e come�ar seu pr�prio processo de Design Thinking sem precisar revisitar v�deo a v�deo, ok?
+
+
+Design Thinking que ? composto por cinco etapas: descoberta, interpretação, ideação, experimentação e evolução.
+
+Descoberta:
+
+Briefing - Resumo de um problema de usu�rio.
+Briefing do Curso - Problema do Fernando. 
+Onde encontro um plano para minha empresa ?
+
+N�o est� f�cil para o Fernando achar isso, mesmo com o numero(Ter muitos atentendes para responder a solicitaçãa) 
+ou email(Por conta do tempo h�bil para responder), deveria ter um form com isso de forma f�cil de acesso.
+
+Onde est� a eficiencia ?
+
+Preciso algo mais eficiente! Preciso de um processo que me ajude a chegar a essa solu??o de problemas como o do Fernando.
+
+Brainstorm - Chuva de ideias para resolver o problema.
+
+Processo: 
+1. Me organizar - verificar qual � o problema, escrevendo o brefing, pesquisando casos semelhantes e coletando as informaçães relativas;
+2. Levar esse problema aos meus colegas da Alura - comunicaremos os resultados quantitativos e qualitativos obtidos a partir do ponto anterior, 
+enfatizando que ? preciso melhorar para evitar que acabemos com nossa imagem no mercado de trabalho, al?m de estarmos deixando de faturar e atender v�rias pessoas;
+3. Conversar com os colegas.
+4. Resolver o problema.
+
+Mas ser� que n�o h� nada que envolva o processo do in�cio ao fim? Algo pronto, que algue?m j� tenha inventado? Algo que guie nosso fluxo de pensamento?
+
+Conceitos;
+
+Tudo isso com uma intenção, um objetivo, resolver um problema.
+
+Design - 
+Usar o Illustrator, Usar o Sketch, Usar o Photoshop, Usar o paint, Ser o novo picasso...
+O Design precisa comunicar uma mensagem.
+N�o ? produzir artes ou fazer esculturas, o design n�o ? s� isso.
+Arte - Depende da vis�o de cada um.
+Mas o design n�o, n�o ? passivel da vis�o de cada um,
+Uma forma de resolver PROBLEMAS, de uma forma criativa, utilizando m?todos, processos,
+passos, chegando a uma solução, um jeito de pensar, um produto, um servi�o ou 
+algo para n�o fazer.
+? uma forma de resolver problemas. � uma forma criativa, evitando pensarmos sempre da mesma maneira, estudando novidades e chegando a ideias de acordo com os processos mencionados, "saindo da caixa", utilizando m?todos e cumprindo passos para alcan�ar uma solu??o.
+
+Metodologia para resolver problemas - 
+� composta por algumas fases,
+Idealização, Criação, Desenvolvimento, Configuração, Concepção, Elaboração, 
+Especificação de Artefatos (quando vamos deixar um item com determinada cor, ou usamos uma medida espec�fica, por exemplo)
+Isso produz uma padronização de componentes e desenhos.
+� uma atividade estrat�gica, tecnica e criativa.
+
+
+
+Design Thinking == DT - 
+
+Resumo: Significa acreditar que podemos fazer a diferen�a, 
+desenvolvendo um processo intencional para chegar ao novo, 
+a soluçães criativas, e criar impacto positivo, e tudo isso baseado em alguns pilares.
+
+Auxilia na criação de um novo pensamento
+
+Magic Mouse Apple - Inovando na forma de utilizar o mouse, utilizando o design thinking para resolver o problema.
+
+Criadores: [ Tim Brown, David M Kelley, tamb?m criadores(ceo's) da empresa IDEO - Consultoria de Design. ]
+
+Pilares: [
+Centrado no Usu�rio,
+Colaborativo - N�o resolver tudo sozinho, grupo trabalhando junto, gerente, backenders, front's, fullstacks,
+Otimista - Acreditar na solu??o,
+Experimental - Poder errar sem medo ]
+
+Pra que usar o DT? {
+Usar para qualquer coisa! }
+
+Etapas: [
+Preparação - Etapa antes das 5 etapas :),
+Descoberta, Interpretação, Ideação, Experimentação, Evolução ]
+
+
+
+Fase Preparação
+
+Definir o Desafio || Desafio do Design; Entendimento; Plano de Ação; Abordagem; Escopo Claro.
+
+IDEO Recommendations 
+Preparação {
+	2 a 5 pessoas
+	30 a 60 minutos
+}
+
+O que fazer ? {
+	Lista de problemas, s�o somente os sobre o do Fernando, 
+	Tabelas de problemas
+}
+
+Ol�!
+Nessa aula voc� ir� passar pela Preparação, que � um momento anterior 
+as 5 etapas do Design Thinking. 
+Para isso voc� precisar�, no decorrer dessa aula, de algumas tabelas. 
+Essas tabelas podem ser usadas no computador mesmo, 
+em um editor de texto comum como o Drawn do Google Drive (Tabela feitas, n�o do melhor jeito, acho)
+ou voc� pode pegar uma folha A4/A3 ou flipchart e desenhar a tabela a m�o. 
+Os t�tulos das tabelas que utilizaremos s�o os seguintes:
+
+1) Problemas - Coisas que eu gostaria que tivesse; {
+	//Aqui preenchemos o problema que temos ou os problemas; ou o que gostar�amos que existisse
+	Gostaria que pessoas que trabalham em empresas conseguissem contratar um plano corporativo facilmente
+	no site da Alura; /* Muito engessado */
+	Gostaria que os alunos sempre tivessem os posts sempre respondidos no forum;
+}
+
+2) Como podemos; {
+	//Aqui o problema de uma forma que uma possibilidade possa ser deslumbrada
+	Desenvolver uma forma que uma empresa consiga contratar um plano de estudos no site da Alura de maneira facil; /* Vendo a possibilidade */
+	Achar uma maneira que os alunos mais experientes sempre possam ajudar;
+}
+
+3) Seja simples; {
+	//Aqui descrevemos o problema de maneira simples, objetiva e que qualquer pessoa consiga entender; �s vezes a forma
+	//como foi descrito no question�rio 2, poder ser a mesma descrita aqui.
+	Pessoas que precisam contratar planos corporativos n�o conseguem fazer isso pelo nosso site.
+	Grupo de pessoas que não conseguem fazer planos pelo nosso site.
+}
+
+4) Medidas/Indicadores de Sucesso; {
+	//Aqui descrevemos os indicadores que nos auxiliar�o a perceber se fomos bem sucedidos
+	//ao resolver o nosso problema escolhido do DT.
+	Feedback positivo dos alunos.
+	Acesso a informação desses planoes de maneira simples.
+	Contratação desses planos de maneira simples e �gil.
+	Aumento na demanda por este tipo de contratação.
+}
+
+5) Estabele�a limites; {
+	//Limitaçães que devemos levar em consideração ao pensar nas soluçães para o nosso problema
+	Precisa ser de baixo custo.
+	Precisa melhorar o nível de satisfação dos futuros contratantes. 
+	Precisa utilizar recursos humanos/intelectuais que j� temos no Alura, que n�o necessite de 
+	recursos externos (exemplo: uma pe�a de design? Temos designers aqui; Enviar uma carta?
+	Teremos que enviar via correios, n�o � nosso)
+}
+
+6) Escreva um Resumo - Briefing; {
+	//Exemplo dado pela instrutora
+	Nossos futuros alunos n�o conseguem contratar planos que n�o sejam aqueles oferecidos em nosso site.
+	Fernando conseguiu um budget para investir na formação da sua equipe de T.I. na empresa, mas n�o
+	encontra como pode contratar um plano corporativo no site da Alura. Existe alguma maneira de
+	solucionarmos isto? Porque para n�s, da Alura, isso � um problema. N�o queremos que algu�m precise
+	procurar tanto em nosso site para encontrar uma simples informação de um plano diferente ou uma
+	solicitação de informação sobre um plano espec�fico.
+}
+
+7) Objetivos finais; {
+	//Onde queremos chegar?
+	//Aqui falamos onde esperamos chegar ao fim do processo do design thinking,
+	//descrevendo at� mesmo qual o entreg�vel podemos ter.
+	/*
+		Definir objetivos para empreender o desafio de design significa estabelecer onde esperamos chegar 
+		ao fim do processo do Design Thinking, descrever at� mesmo qual o entreg�vel podemos ter no fim do processo. 
+		Isso pode nos auxiliar durante todo o processo e at� mesmo ser um term�metro durante todo o processo.
+	*/
+	Um documento do Google Drive para compartilhar com os demais tomadores de decis�o
+	Uma apresentação resumo do que foi estudado e das soluçães as quais chegamos
+}
+
+Qualquer d�vida ou problema para criar essas tabelas, avise no forum!
+
+SE PLANEJEM!
+
+
+Etapa 1 - Descoberta
+
+É na fase Descoberta que vamos ter uma grande quantidade de informações, 
+que vamos entrar em contato com lugares e pessoas, para descobrirmos itens relacionados ao nosso desafio. 
+Na etapa/fase Descoberta, é primordial nós termos nossas mentes abertas para novas oportunidades 
+em relação ao nosso desafio/problema do Design Thinking e então abandonar "velhas" ideias 
+e se abrir as novas que podem e vão surgir
+
+Pt I
+
+Temos um Desafio
+
+Resumo: Revisar limites, coletar pensamentos, redefinir desafio e criar um lembrete visível.
+
+Definir o desafio {
+
+Como abordar o desafio ?
+
+Free your mind! Descontrua,
+
+Talk with people. Descobrimos coisas nova!
+
+Revisar o desafio. A equipe está engajada com o desafio escolhido? Colete pensamentos!
+
+Revisar na Preparação {
+Limites: Poder eliminar algo, infelizmente não. Se tiver altere, no caso do Fernando não.
+Seja simples: Modificado e adicionado com grupos de amigos.
+}
+
+Crie um lembrete visível, Anote!
+
+}
+
+Pt II
+
+Compartilhar conhecimento! - Usar post-its
+
+Sabe algo para resolver o desafio ? - Compartilhem o que vocês sabem!
+
+Não entendi alguma coisa ?
+Não sei o significado de alguma coisa ?
+
+Pergunte! - Talk! - Dúvidas sanadas ? - Agrupe os post-its similares
+
+Montando uma equipe, Pois, a equipe já interagiu, hierarquia já foi quebrada, criamos empatia, novamente agrupe similares!
+
+Entenda o público.
+
+Pense Amplamente - Públicos {
+	Pessoa Júridica.
+	Grupo de pessoas (Pessoa Física).
+}
+
+Liste os tipos de clientes.
+
+Precisamos nos organizar, validar as entregas, esboçar um cronograma! - Utilizar lembretes visíveis.
+
+Agora podemos conversar com as pessoas ? Mas sobre o que ?
+Liste tipos de pessoas para conversar - Futuros contratantes, pessoas que já possuem planos empresariais.
+Perfis:
+	Interessadoes em contratar planos para grupos.
+	Interessadoes em contratar planos empresariais.
+	Rodolfo, que já possui um plano empresarial contratado.
+	Alunos de outras plataformas.
+
+Pensar no extremos, podem trazer insights. Encontrado inspiração.
+
+Lista de atividades:
+Aprender com os usuários (Conversar com esses usuários, entender o que eles querem/pensam/sentem/buscam)
+Aprender com especialistas (Como podemos conversar com pessoas que tem uma plataforma parecida? 
+Podemos dizer que somos estudantes e buscar entender ? Ou podemos por exemplo ler livros, assistir
+entrevistas desses especialistas e aprender com os ensinamentos que eles passam.)
+Buscar inspiração em ambientes similares (Outras plataformas de ensino. Vou me cadastrar e entender
+como se comunicar com o aluno e como fazem ficar na plataforma )
+
+Tipos de pessoas que queremos falar: (Descrição - Persona)
+Homens e mulheres
+Economicamente ativos
+Gerente, analistas, devs e estagiários de empresas
+Universitários
+Conhecem a Alura/Caelum/Casa do Código
+
+Quanto tempo para falar com essas pessoas, onde vamos encontra-las
+
+Planeje a Interação e Logística:
+Combinar ponto de encontro (Alura/Caelum ou Shopping)
+Horário de almoço (12hr às 14hr)
+Pode depender do entrevistado.
+
+Descrever efetivamente as pessoas
+
+Entrevistados:
+Bruno ex aluno da Caelum
+Luani aluna da Alura
+Ricardo dev de ios da Viva Real
+Giovana dev de android na Catho
+Carolina estudante de sistemas da informação da USP
+
+Ter outras pessoas de background*
