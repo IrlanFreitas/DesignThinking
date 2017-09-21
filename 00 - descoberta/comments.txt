@@ -56,23 +56,25 @@ Briefing - Resumo de um problema de usu�rio.
 Briefing do Curso - Problema do Fernando. 
 Onde encontro um plano para minha empresa ?
 
-N�o est� f�cil para o Fernando achar isso, mesmo com o numero(Ter muitos atentendes para responder a solicitaçãa) 
-ou email(Por conta do tempo h�bil para responder), deveria ter um form com isso de forma f�cil de acesso.
+Não está fácil para o Fernando achar isso, mesmo com o numero(Ter muitos atentendes para responder a solicitaçãa) 
+ou email(Por conta do tempo hábil para responder), deveria ter um form com isso de forma fácil de acesso.
 
-Onde est� a eficiencia ?
+Onde está a eficiencia ?
 
-Preciso algo mais eficiente! Preciso de um processo que me ajude a chegar a essa solu??o de problemas como o do Fernando.
+Preciso algo mais eficiente! Preciso de um processo que me ajude a chegar a essa solução de problemas como o do Fernando.
 
 Brainstorm - Chuva de ideias para resolver o problema.
 
 Processo: 
-1. Me organizar - verificar qual � o problema, escrevendo o brefing, pesquisando casos semelhantes e coletando as informaçães relativas;
+1. Me organizar - verificar qual é o problema, escrevendo o brefing, pesquisando casos semelhantes e coletando as informaçães relativas;
 2. Levar esse problema aos meus colegas da Alura - comunicaremos os resultados quantitativos e qualitativos obtidos a partir do ponto anterior, 
 enfatizando que ? preciso melhorar para evitar que acabemos com nossa imagem no mercado de trabalho, al?m de estarmos deixando de faturar e atender v�rias pessoas;
 3. Conversar com os colegas.
 4. Resolver o problema.
 
-Mas ser� que n�o h� nada que envolva o processo do in�cio ao fim? Algo pronto, que algue?m j� tenha inventado? Algo que guie nosso fluxo de pensamento?
+Mas será que não há nada que envolva o processo do inácio ao fim? 
+Algo pronto, que alguem já tenha inventado? 
+Algo que guie nosso fluxo de pensamento?
 
 Conceitos;
 
@@ -314,3 +316,113 @@ Giovana dev de android na Catho
 Carolina estudante de sistemas da informação da USP
 
 Ter outras pessoas de background*
+
+
+O que perguntar ? - Necessário um roteiro!
+O que precisamos saber ?
+Como a Renata e Fernando contratam planos ?
+Como eles poderiam contratar um ?
+Como eu faço o entrevistado me falar isso ?
+Identifique temas
+
+Temos {
+	Perguntas sociodemográficas (nome, idade, sexo
+	onde mora, estuda ou não, formado ou não, 
+	trabalha ou não)
+	Hobbies
+	Como estuda
+	Hábitos de leitura
+	Interesse em cursos online
+}
+
+O que iremos perguntar sobre os temas, Evite perguntas de 
+SIM/NÃO, para ganhar mais informações.
+
+
+Perguntas {
+	Nome 
+	Idade 
+	Sexo 
+	Onde mora
+	Escolaridade. Ainda estudante ? Se sim, do quê ?
+	Trabalha ?
+	Tem algum Hobbie? Se sim, qual(is)?
+	Gostaria de viver apenas do Hobbie? (Deixando o entrevistado mais confortável, criando empatia)
+	Se estuda, como costuma estudar ?
+	Possui hábitos de leitura? Se sim, através de livros/sites ?
+	Possui interesse em cursos online ?
+	Já fez algum curso online pago ? Qual ?
+	Contrataria um curso online para a empresa que trabalha ?
+}
+
+Estruturação das Perguntas {
+	Estruture para que a leitura fique fácil
+	Contextualize o entrevistado - Indicando o porque das perguntas
+	Inicie com o que é específico: abra com perguntas que deixem os 
+	entrevistados confortáveis em responder.
+	Amplie: faça perguntas mais profundas sobre esperanças, medos e ambições.
+	Vá mais fundo: explore o sem problema/desafio ou aprofunde qualquer tema
+	interessante que tenha aparecido durante a conversa. Considere
+	estimular o pensamento com cenários "e se..."
+}
+
+Funções no Trabalho de Campo {
+	IDEO Recommendations - 4 pessoas
+	Uma pessoa responsável por tirar fotos (autorização do participante) - Engrandeçer o processo
+	Uma pessoa para anotar
+	Uma pessoa para fazer as perguntas
+	Uma pessoa responsável por observar as expressões corporais (Registrar isso, ajudar com isso)
+}
+
+Checklist - Entrevista {
+	Roteiro de perguntas
+	Contato dos entrevistados
+	Contato dos membros do grupo de DT
+	Endereço do lugar de encontro e explicações de como chegar
+	Cadernos de anotações e canetas (ou computador)
+	Camera carregada (ou celular carregado para tirar fotos)
+	Presente de agradecimento pela participação (caso tenha sido 
+	acordado com o grupo de DT - Valorização das pessoas
+	criando empatia)
+	Post-its e canetas
+}
+
+Paralelo as entrevistas precisamos ainda mais
+Entender o desafio
+Entender a realidade do seu público
+Vivencie o que o cliente viver
+
+Padrões de comportamente das pessoas na observação {
+	Como as pessoas se comportam naquele ambiente ?
+}
+
+Emoções sentidas na observação {
+	Surpresas ?
+	Frustações ?
+	Motivações ?
+	Fatores de tomada de decisão.
+}
+
+Descrição da Observação {
+	Site com diversos cursos
+	Opções diferentes de contratação
+	Cursos free e pagos
+	Site menos visual em relação às seções em comparação a Alura
+}
+
+Procurar observar lugares diferentes para obter inspiração,
+semelhantes mas podem ser com outros contextos.
+Entre em contato com as pessoas e explicar o porque
+da observação
+
+Itens visualizados na observação - Apple {
+	Apresentação dos produtos que são lançamentos
+	Disposição dos produtos na loja que facilita a circulação pelo espaço 
+}
+
+Métodos de entrevista com usuários
+
+Método 1 - Aprenda com Indivíduos {
+	Deixar o entrevistado confortável
+	Criar uma atmosfera de confiança
+}
