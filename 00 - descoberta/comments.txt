@@ -425,4 +425,33 @@ Métodos de entrevista com usuários
 Método 1 - Aprenda com Indivíduos {
 	Deixar o entrevistado confortável
 	Criar uma atmosfera de confiança
+	Tentar entender a pessoa
+	Faça a entrevista no ambiente do usuários
+	Anote os trechos da conversa com "" (aspas) para reproduzir a fala do usuário
+	somente reproduzir o que o indivíduo fala.
 }
+
+Método 2 - Documentação das pessoas sobre elas mesmas {
+	O que eu quero que elas documentem?
+	Sentimentos? Atividades? Comportamentos?
+	Instrua os participantes.
+	Revisar o materail com o participante
+}
+
+Método 3 - Aprenda com grupos {
+	Criar uma atmosfera de confiança
+	Faça os participantes conversarem
+	Observe e anote
+	Seja o mediador
+	Crie um painel dos participantes
+}
+
+Método 4 - Aprenda com a observação em pares {
+	Entrevistados foram duplas
+	E essas duplas participam do grupo de DT
+	Escolha uma recompensa para o fim do processo (Valorização das pessoas)
+	Crie interações regulares
+}
+
+O que fazemos com tudo isso? - Vamos para a fase de Interpretação!
+
